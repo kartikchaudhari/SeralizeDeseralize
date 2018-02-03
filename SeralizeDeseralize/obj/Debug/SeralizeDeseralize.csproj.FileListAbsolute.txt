@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\SeralizeDeseralize\SeralizeDeseralize\bin\Debug\SeralizeDeseralize.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\SeralizeDeseralize\SeralizeDeseralize\bin\Debug\SeralizeDeseralize.exe
+c:\users\admin\documents\visual studio 2012\Projects\SeralizeDeseralize\SeralizeDeseralize\bin\Debug\SeralizeDeseralize.pdb
+c:\users\admin\documents\visual studio 2012\Projects\SeralizeDeseralize\SeralizeDeseralize\obj\Debug\SeralizeDeseralize.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\SeralizeDeseralize\SeralizeDeseralize\obj\Debug\SeralizeDeseralize.exe
+c:\users\admin\documents\visual studio 2012\Projects\SeralizeDeseralize\SeralizeDeseralize\obj\Debug\SeralizeDeseralize.pdb

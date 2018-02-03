@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToDo>
+    <ToDoString>String 1</ToDoString>
+    <Date>0001-01-01T00:00:00</Date>
+  </ToDo>
+  <ToDo>
+    <ToDoString>String 2</ToDoString>
+    <Date>0001-01-01T00:00:00</Date>
+  </ToDo>
+</user_list>
