@@ -17,6 +17,9 @@ namespace SeralizeDeseralize
     class Program
     {
         static List<ToDo> ToDoList = new List<ToDo>();
+
+       
+        //seralization 
         public static void Ser(ToDo t) {
             ToDoList.Add(t);
             XmlSerializer mySerializer = new XmlSerializer(ToDoList.GetType(), new XmlRootAttribute("user_list"));
@@ -24,6 +27,8 @@ namespace SeralizeDeseralize
             mySerializer.Serialize(myWriter, ToDoList);
             myWriter.Close();
         }
+       
+       //de-serilzation
         public static int Des(List<ToDo> tdList) {
             var myDeserializer = new XmlSerializer(typeof(List<ToDo>), new XmlRootAttribute("user_list"));
             using (var myFileStream = new FileStream("myXML.xml", FileMode.Open))
